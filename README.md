@@ -1,5 +1,5 @@
- [PaddleLite v2.10](https://github.com/PaddlePaddle/Paddle-Lite/tree/release/v2.10) 进行开发。
-  
+
+
 
 # 1. 一共五个文件 
    * OCRPredictorNative
@@ -87,6 +87,12 @@ return test;
     每个元素为 OcrResultModel
     每个OcrResultModel 属性为
         cls_condifence 分类置信度 0-100%
+ 
+ # 5.效果
+ 
+ [PaddleLite v2.10](https://github.com/PaddlePaddle/Paddle-Lite/tree/release/v2.10) 进行开发。
+ Demo SDK 下载 链接：https://pan.baidu.com/s/1vFHrbYlQC5nrryj_vMhGKQ 提取码：curr 
+ 
         cls_idx 分类下标 0 :对应90°  1:对应180°
         cls_label 类别信息 :90° 180°
         confidence  文本序列置信度，如果序列越长 并且置信度越高 说明越准，一般会随着长度的增加降低置信度

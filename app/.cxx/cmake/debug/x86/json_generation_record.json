@@ -1,0 +1,512 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: x86",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\build-tools\\29.0.2\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\build-tools\\33.0.2\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "Mapping new ns http://schemas.android.com/repository/android/common/02 to old ns http://schemas.android.com/repository/android/common/01",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "Mapping new ns http://schemas.android.com/repository/android/generic/02 to old ns http://schemas.android.com/repository/android/generic/01",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "Mapping new ns http://schemas.android.com/sdk/android/repo/addon2/02 to old ns http://schemas.android.com/sdk/android/repo/addon2/01",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "Mapping new ns http://schemas.android.com/sdk/android/repo/repository2/02 to old ns http://schemas.android.com/sdk/android/repo/repository2/01",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "Mapping new ns http://schemas.android.com/sdk/android/repo/sys-img2/02 to old ns http://schemas.android.com/sdk/android/repo/sys-img2/01",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\emulator\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\patcher\\v4\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\platform-tools\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\platforms\\android-24\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\platforms\\android-28\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\platforms\\android-29\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\platforms\\android-33\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\sources\\android-33\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\system-images\\android-33\\google_apis\\arm64-v8a\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\system-images\\android-33\\google_apis\\x86_64\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\tools\\package.xml",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON E:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json due to:",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json E:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file E:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\x86\\build_command.txt, will remove stale json folder",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027E:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\x86\u0027",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027E:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\x86\u0027",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HE:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions -Wno-format\n-DCMAKE_FIND_ROOT_PATH\u003dE:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\prefab\\x86\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\workspace\\android\\SDK-DEMO\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d23\n-DANDROID_PLATFORM\u003dandroid-23\n-DANDROID_STL\u003dc++_shared\n-DANDROID_ARM_NEON\u003dTRUE\n-BE:\\workspace\\android\\SDK-DEMO\\app\\.cxx\\cmake\\debug\\x86\n-GNinja\njvmArgs : \n\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"E:/workspace/android/SDK-DEMO/app/src/main/cpp\",\n  \"buildDirectory\": \"E:/workspace/android/SDK-DEMO/app/.cxx/cmake/debug/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11 -frtti -fexceptions -Wno-format\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dE:\\\\workspace\\\\android\\\\SDK-DEMO\\\\app\\\\.cxx\\\\cmake\\\\debug\\\\prefab\\\\x86\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.1.6352462\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dE:\\\\workspace\\\\android\\\\SDK-DEMO\\\\app\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d23\",\n    \"-DANDROID_PLATFORM\\u003dandroid-23\",\n    \"-DANDROID_STL\\u003dc++_shared\",\n    \"-DANDROID_ARM_NEON\\u003dTRUE\"\n  ]\n}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"opencv dir: E:/workspace/android/SDK-DEMO/app/src/main/cpp/../../../OpenCV/sdk/native/jni\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "opencv dir: E:/workspace/android/SDK-DEMO/app/src/main/cpp/../../../OpenCV/sdk/native/jni",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at E:/workspace/android/SDK-DEMO/app/OpenCV/sdk/native/jni/OpenCVConfig.cmake:47 (message):\\n  Found OpenCV Android Pack but it has no binaries compatible with your ABI\\n  (can\u0027t find: /abi-x86)\\nCall Stack (most recent call first):\\n  CMakeLists.txt:18 (find_package)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at E:/workspace/android/SDK-DEMO/app/OpenCV/sdk/native/jni/OpenCVConfig.cmake:47 (message):\r\n  Found OpenCV Android Pack but it has no binaries compatible with your ABI\r\n  (can\u0027t find: /abi-x86)\r\nCall Stack (most recent call first):\r\n  CMakeLists.txt:18 (find_package)\r\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at CMakeLists.txt:18 (find_package):\\n  Found package configuration file:\\n\\n    E:/workspace/android/SDK-DEMO/app/src/main/cpp/../../../OpenCV/sdk/native/jni/OpenCVConfig.cmake\\n\\n  but it set OpenCV_FOUND to FALSE so package \\\"OpenCV\\\" is considered to be\\n  NOT FOUND.\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "CMake Error at E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt:18 (find_package):\r\n  Found package configuration file:\r\n\r\n    E:/workspace/android/SDK-DEMO/app/src/main/cpp/../../../OpenCV/sdk/native/jni/OpenCVConfig.cmake\r\n\r\n  but it set OpenCV_FOUND to FALSE so package \"OpenCV\" is considered to be\r\n  NOT FOUND.\r\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"E:/workspace/android/SDK-DEMO/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring incomplete, errors occurred!\r\nSee also \"E:/workspace/android/SDK-DEMO/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log\".",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "ERROR",
+    "message": "Configuration failed.",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin).\r\nCheck for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\nCheck for working C compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\nDetecting C compiler ABI info\nDetecting C compiler ABI info - done\nDetecting C compile features\nDetecting C compile features - done\nCheck for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\nCheck for working CXX compiler: C:/Users/Admin/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\nDetecting CXX compiler ABI info\nDetecting CXX compiler ABI info - done\nDetecting CXX compile features\nDetecting CXX compile features - done\nopencv dir: E:/workspace/android/SDK-DEMO/app/src/main/cpp/../../../OpenCV/sdk/native/jni\nCMake Warning at E:/workspace/android/SDK-DEMO/app/OpenCV/sdk/native/jni/OpenCVConfig.cmake:47 (message):\n  Found OpenCV Android Pack but it has no binaries compatible with your ABI\n  (can\u0027t find: /abi-x86)\nCall Stack (most recent call first):\n  CMakeLists.txt:18 (find_package)\n\n\nCMake Error at CMakeLists.txt:18 (find_package):\n  Found package configuration file:\n\n    E:/workspace/android/SDK-DEMO/app/src/main/cpp/../../../OpenCV/sdk/native/jni/OpenCVConfig.cmake\n\n  but it set OpenCV_FOUND to FALSE so package \"OpenCV\" is considered to be\n  NOT FOUND.\n\n\nConfiguring incomplete, errors occurred!\nSee also \"E:/workspace/android/SDK-DEMO/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log\".\n",
+    "file": "E:\\workspace\\android\\SDK-DEMO\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  }
+]

@@ -97,6 +97,7 @@ return test;
 # 5.效果
  
  [PaddleLite v2.10](https://github.com/PaddlePaddle/Paddle-Lite/tree/release/v2.10) 进行开发。
+  
  Demo SDK 下载 链接：https://pan.baidu.com/s/1vFHrbYlQC5nrryj_vMhGKQ 提取码：curr 
   
 

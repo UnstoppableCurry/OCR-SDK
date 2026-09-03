@@ -1,5 +1,8 @@
+# OCR-SDK
 
-
+> **📖 在线 API 文档（GitHub Pages）：** [https://unstoppablecurry.github.io/OCR-SDK/](https://unstoppablecurry.github.io/OCR-SDK/)
+>
+> 静态文档站涵盖环境配置、API 参考、方向分类示例输入图与集成流程。OCR 推理需在 Android 设备上运行，浏览器端无法执行。
 
 # 1. 一共五个文件 
    * OCRPredictorNative
